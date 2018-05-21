@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="chla_Layer">
+  <name>chla_Layer</name>
+  <Snippet></Snippet>
+  <GroundOverlay id="0">
+    <Snippet></Snippet>
+    <description><![CDATA[chla_Layer]]></description>
+    <drawOrder>1000</drawOrder>
+    <name>chla_Layer</name>
+    <Icon>
+      <href>Layer0.png</href>
+      <viewBoundScale>1.0</viewBoundScale>
+    </Icon>
+    <LatLonBox>
+      <north>78.03872985839844</north>
+      <south>-78.03079528808594</south>
+      <east>216.0541717529297</east>
+      <west>-216.0321990966797</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+</Document>
+</kml>
