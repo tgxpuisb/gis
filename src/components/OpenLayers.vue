@@ -32,7 +32,7 @@ export default {
         }),
         new ol.layer.Tile({
           source: new ol.source.TileWMS({
-            url: 'http://39.106.10.110:8080/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=tasmania&styles=&bbox=143.83482400000003,-43.648056,148.47914100000003,-39.573891&width=512&height=449&srs=EPSG:4326&format=application/openlayers',
+            url: 'http://39.106.10.110:8080/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=tasmania&styles=&bbox=143.83482400000003,-43.648056,148.47914100000003,-39.573891&width=768&height=673&srs=EPSG:4326&format=application/openlayers',
             serverType: 'geoserver',
           })
         })
